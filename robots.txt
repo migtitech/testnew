@@ -1,0 +1,5 @@
+# Preview site — not for indexing. Replace this file when the real domain goes live.
+User-agent: *
+Disallow: /
+
+Sitemap: https://migtitech.github.io/testnew/sitemap.xml
